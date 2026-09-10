@@ -1,22 +1,22 @@
-# Ingeniería Informática — Universidad Complutense de Madrid
+# Computer Engineering — Complutense University of Madrid
 
-Repositorio personal para volver a estudiar, repasar y disfrutar las materias del Grado en Ingeniería Informática de la UCM.
+This is a personal repository for revisiting, reviewing, and enjoying the subjects covered by the Computer Engineering degree at the Complutense University of Madrid (UCM).
 
-## Organización
+## Organization
 
-El contenido sigue la jerarquía `módulo / materia / asignatura`. Cada asignatura dispone de su propia carpeta. La materia **Física** y su asignatura no se incluyen, conforme al propósito de este repositorio.
+The content follows a `module / subject area / course` hierarchy. Every course has its own directory. **Physics** and its associated course are intentionally excluded.
 
-La carpeta `Optativo/Optatividad general` queda preparada para incorporar las optativas elegidas más adelante, ya que el temario de referencia no enumera asignaturas concretas.
+The `Electives/General Electives` directory is ready for courses to be added later because the reference curriculum does not list specific electives.
 
-## Módulos
+## Modules
 
-- Materias básicas
-- Materias comunes a la rama de la Informática
-- Tecnología específica - Computación
-- Complementario
-- Optativo
-- Trabajo de Fin de Grado
+- Basic Subjects
+- Common Computer Science Subjects
+- Specific Technology - Computing
+- Complementary Studies
+- Electives
+- Bachelor's Thesis
 
-## Uso sugerido
+## Suggested use
 
-Dentro de cada asignatura se pueden añadir apuntes, ejercicios, proyectos, bibliografía y un registro de progreso.
+Each course directory can contain notes, exercises, projects, references, and a progress log.
